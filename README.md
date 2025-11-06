@@ -20,15 +20,8 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 Installation :
 1. Clone the repository to your local machine:
 
-git clone https://github.com/darkuser21/Netflix-Clone.git
+git clone https://github.com/ABISHEK-SUNIL/Netflix-Clone.git
 
-2.Navigate to the project directory:
-
-cd Netflix-Clone
-
-3.Open the index.html file in your web browser.
-
-live preview : https://darkuser21.github.io/Netflix-Clone/
 
 Limitations :
 
